@@ -1,0 +1,41 @@
+#section {
+    border-color: black;
+    border-top: solid;
+    border-bottom: solid;
+}
+
+#paragraph1 {
+    border-bottom: solid;
+}
+
+#paragraph2 {
+    border-bottom: dotted;
+}
+
+#border__dotted {
+    border: dotted;
+    border-color: black;
+}
+
+#border__inset {
+    border: inset;
+}
+
+#border__crimson {
+    border: solid;
+    border-color: crimson;
+}
+
+img {
+    border-radius: 50%;
+}
+
+div p {
+    border-bottom: groove;
+}
+
+button {
+    border-style: none;
+    border-radius: 5px;
+    background-color: chocolate;
+}
